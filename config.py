@@ -1,0 +1,5 @@
+api_key = "YOUR_API_KEY"
+azure_endpoint = "your_azure_endpoint"
+api_version = "your_api_version"
+api_key_auth="your_key_api_unstructureapp.io"
+server_url="https://api.unstructuredapp.io"
